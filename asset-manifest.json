@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/invitatie-digitala/static/css/main.3b751c89.css",
-    "main.js": "/invitatie-digitala/static/js/main.32a89744.js",
-    "static/js/453.40063271.chunk.js": "/invitatie-digitala/static/js/453.40063271.chunk.js",
-    "index.html": "/invitatie-digitala/index.html",
-    "main.3b751c89.css.map": "/invitatie-digitala/static/css/main.3b751c89.css.map",
-    "main.32a89744.js.map": "/invitatie-digitala/static/js/main.32a89744.js.map",
-    "453.40063271.chunk.js.map": "/invitatie-digitala/static/js/453.40063271.chunk.js.map"
+    "main.css": "/wedding-invitation/static/css/main.3b751c89.css",
+    "main.js": "/wedding-invitation/static/js/main.fad92312.js",
+    "static/js/453.40063271.chunk.js": "/wedding-invitation/static/js/453.40063271.chunk.js",
+    "index.html": "/wedding-invitation/index.html",
+    "main.3b751c89.css.map": "/wedding-invitation/static/css/main.3b751c89.css.map",
+    "main.fad92312.js.map": "/wedding-invitation/static/js/main.fad92312.js.map",
+    "453.40063271.chunk.js.map": "/wedding-invitation/static/js/453.40063271.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b751c89.css",
-    "static/js/main.32a89744.js"
+    "static/js/main.fad92312.js"
   ]
 }
